@@ -16,11 +16,12 @@ We have also manually checked and added some entires.
 ```
 
 ```bash
-hello and welcome to my channel!   
+hello and welcome to youtube my channel!  
 hello   ハロー  名詞-普通名詞-一般
 and     アンド  名詞-普通名詞-一般
 welcome ウェルカム      名詞-普通名詞-一般
 to      ツー    名詞-普通名詞-一般
+youtube ユーチューブ    名詞-普通名詞-一般
 my      マイ    名詞-普通名詞-一般
 channel チャンネル      名詞-普通名詞-一般
 !               補助記号-句点
