@@ -1,0 +1,2 @@
+# loandic
+Japanese loanword dictionary
